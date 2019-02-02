@@ -58,6 +58,7 @@ p {
 }
 .beef
 {
+  font-family: Comic sans MS;
   background-color: red;
   height: 50px;
   border: 2px solid black;
@@ -72,6 +73,7 @@ p {
 }
 .sushi
 {
+  font-family: Comic sans MS;
   background-color: yellow;
   height: 50px;
   border: 2px solid black;
