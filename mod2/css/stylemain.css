@@ -44,6 +44,7 @@ p {
 }
 .chicken
 {
+  font-family: Comic sans MS; 
   background-color: pink;
   height: 50px;
   border: 2px solid black;
